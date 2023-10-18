@@ -1,2 +1,3 @@
-#Uzdevums
-##iegūstamias rezultāts
+##Uzdevums
+
+###iegūstamias rezultāts
